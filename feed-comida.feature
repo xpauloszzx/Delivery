@@ -34,3 +34,4 @@ And O prato adicionado vai para seção de lixeira (seção somente vista pelos 
 alteracao-teste-master
 
 alteracao1
+alteracao2
