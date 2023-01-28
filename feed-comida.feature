@@ -32,3 +32,5 @@ Then O Prato recém removido não é mais visível a todos os tipos de usuário 
 And O prato adicionado vai para seção de lixeira (seção somente vista pelos administradores), caso queira adicionar o mesmo prato posteriormente
 
 alteracao-teste-master
+
+alteracao1
