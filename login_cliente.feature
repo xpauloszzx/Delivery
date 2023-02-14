@@ -13,7 +13,7 @@ And vejo a mensagem "Bem-vindo, [nome do usuário]"
 # Cenário: Login com email inválido
 Given que eu estou na página de login do site de delivery
 When eu insiro um email inválido
-and clico em "entrar"
+And clico em "entrar"
 Then vejo a mensagem de erro "Email ou senha inválidos. Por favor, tente novamente."
 
 # Cenário: Login com senha inválida
