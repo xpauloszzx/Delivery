@@ -1,3 +1,8 @@
+Feature: Login de cliente 
+As a cliente do estabelecimento 
+I want to logar no sistema
+So that acessar as funcionalidades internas do sistema
+
 # Cenário: Login com sucesso
 Given  eu estou na página de login do site de delivery
 When eu insiro meu email e senha corretamente
